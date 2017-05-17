@@ -1,11 +1,11 @@
-#陳志豐(Chih-Feng Chen)
+# 陳志豐(Chih-Feng Chen)
 
 - Education:國立屏東科技大學-資訊管理系碩士 
 - Personal Website: [http://duncanchen.strikingly.com/](http://duncanchen.strikingly.com/)
 - Location: Pingtung
 - E-Mail: [diablofong@gmail.com](diablofong@gmail.com)
 
-##專業技能
+## 專業技能
 
 
 - HTML & CSS3
@@ -28,10 +28,10 @@
 	- Hybrid mobile app : Cordova & ngCordova
 	- Data Base : MySQL & MSSQL & Oracle
 
-##工作經歷
+## 工作經歷
 
 
-####國立屏東科技大學-程式設計師(2012年9月 – 目前)
+#### 國立屏東科技大學-程式設計師(2012年9月 – 目前)
 
 在屏科大電算中心擔任程式設計師一職，主要負責
 
@@ -65,7 +65,7 @@ PARTICIPANT PROJECTS
 
 - [屏科大校園App(IOS)](https://itunes.apple.com/tw/app/npust-app/id1157851498?l=zh&mt=8)
 
-####東港安泰醫院-程式設計師(2010-07~2011-07 1年1個月)
+#### 東港安泰醫院-程式設計師(2010-07~2011-07 1年1個月)
 在東港安泰醫院主要負責醫療資訊系統開發,主要負責系統
 
 - 營養系統
@@ -79,7 +79,7 @@ TECHNOLOGIES USED
 - Back-end: Object pascal, PL-SQL
 - Develop tool: D2k, Delphi
 
-####中冠資訊-程式設計師(2008-05~2009-11 1年7個月)
+#### 中冠資訊-程式設計師(2008-05~2009-11 1年7個月)
 在中冠資訊主要負責ERP系統銷售模組開發,參與開發專案
 
 - 中鋁詢問單系統開發
@@ -94,14 +94,14 @@ TECHNOLOGIES USED
 - Develop tool: Eclipse
 
 
-####東友科技-測試工程師(2007-05~2008-5 1年)
+#### 東友科技-測試工程師(2007-05~2008-5 1年)
 在東友科技主要負責印表機與傳真機測試,其主要測試工作
 
 - 軟體測試
 - 網路模組測試
 - 多工模組測試
 
-##開發專案
+## 開發專案
 
 - angular-hmac-sha512 [https://github.com/diablofong/angular-hmac-sha512]([https://github.com/diablofong/angular-hmac-sha512])
 	- angularjs加密套件,利用此套件可以產生sha512＋hmac加密
@@ -117,7 +117,7 @@ TECHNOLOGIES USED
 	- youtube播放清單下載與轉檔測試
 	- 練習如何透過youtube api來串接多媒體
 
-##獲獎事蹟
+## 獲獎事蹟
 
 - 2013 Taipei International Invention Show & Technomart, Taipei, Taiwan
 
@@ -125,19 +125,19 @@ TECHNOLOGIES USED
 
 - 2012 Inventeco International Invention Show‚Catania, Italy ‚Gold medal
 
-##個人筆記與簡報
+## 個人筆記與簡報
 - [ios開發筆記-Apple推播訊息服務設定] (https://github.com/diablofong/ios-develop-notes/blob/master/Apple%20Push%20Notification%20Services%20Create.md)
 
 - [Git與source tree 基礎教學] (https://www.slideshare.net/duncanchen73/gitsource-tree)
 
 - [Yii2 restful 基礎教學] (https://www.slideshare.net/duncanchen73/yii2-restful)
 
-##語言能力
+## 語言能力
 
 - Chinese (Native)
 - English (Basic)
 
-##個人特質
+## 個人特質
 
 - 喜歡嘗試新興技術，所學不只侷限於目前所熟習的知識。
 - 善於團隊合作，能夠快速融入團隊氣氛，並一起為目標努力。
