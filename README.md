@@ -59,13 +59,11 @@ PARTICIPANT PROJECTS
 
 - [數位學習平台](http://elearning.npust.edu.tw/moodle/)
 
-![Moodle GA](http://www.imageurlhost.com/di/7299/moodle.png) 
-
 - [教學助理大班助學金申請管理系統](https://elearning.npust.edu.tw/fellowship/#/)
 
-- [屏科大校園App](https://play.google.com/store/apps/details?id=npust.edu.tw.npuststuapp&hl=zh-TW)
+- [屏科大校園App(Android)](https://play.google.com/store/apps/details?id=npust.edu.tw.npuststuapp&hl=zh-TW)
 
-![GA](http://www.imageurlhost.com/di/IH5W/npustapp.png) 
+- [屏科大校園App(IOS)](https://itunes.apple.com/tw/app/npust-app/id1157851498?l=zh&mt=8)
 
 ####東港安泰醫院-程式設計師(2010-07~2011-07 1年1個月)
 在東港安泰醫院主要負責醫療資訊系統開發,主要負責系統
@@ -114,6 +112,10 @@ TECHNOLOGIES USED
 - ezupload [https://github.com/diablofong/ezupload] (https://github.com/diablofong/ezupload)
 	- ezupload檔案上傳系統是一個簡易的檔案上傳系統，提供了使用者註冊與上傳並管理自己檔案功能
 	- 熟悉Yii Framework前台與後台開發模式與檔案上傳功能
+	
+- yudtest [https://github.com/diablofong/yudtest]
+	- youtube播放清單下載與轉檔測試
+	- 練習如何透過youtube api來串接多媒體
 
 ##獲獎事蹟
 
@@ -123,6 +125,12 @@ TECHNOLOGIES USED
 
 - 2012 Inventeco International Invention Show‚Catania, Italy ‚Gold medal
 
+##個人筆記與簡報
+- [ios開發筆記-Apple推播訊息服務設定] (https://github.com/diablofong/ios-develop-notes/blob/master/Apple%20Push%20Notification%20Services%20Create.md)
+
+- [Git與source tree 基礎教學] (https://www.slideshare.net/duncanchen73/gitsource-tree)
+
+- [Yii2 restful 基礎教學] (https://www.slideshare.net/duncanchen73/yii2-restful)
 
 ##語言能力
 
